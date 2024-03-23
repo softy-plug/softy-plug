@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hell0 world 👋
+softy-plug codes
+
+![l3lzkpt3jyv54sruza0u-ihvdxm](https://github.com/softy-plug/softy-plug/assets/132814762/7f809916-d8c8-4981-9e9c-f0470692c270)
 
 <!--
 **softy-plug/softy-plug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
